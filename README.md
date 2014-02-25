@@ -15,21 +15,21 @@ Many of the various color functions are not yet ported. If you're familiar with 
 ## Minecraft Worlds
 Examples outlined in Joshua's [Minecraft Worlds](http://accidentalnoise.sourceforge.net/minecraftworlds.html) article for compositing various layers of noise together.
 
-![image](https://raw.github.com/miketucker/accidentalNoiseUnity/master/Documents/mountainCaves.jpg)
+![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/mountainCaves.jpg)
 
 ## Fractal Generator
 Easy to use Fractal Editor script for generating textures.
 
-![image](https://raw.github.com/miketucker/accidentalNoiseUnity/master/Documents/editor.jpg)
+![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/editor.jpg)
 
-![image](https://raw.github.com/miketucker/accidentalNoiseUnity/master/Documents/ridgedMulti.jpg)
-![image](https://raw.github.com/miketucker/accidentalNoiseUnity/master/Documents/fbm.jpg)
-![image](https://raw.github.com/miketucker/accidentalNoiseUnity/master/Documents/billow.jpg)
+![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/ridgedMulti.jpg)
+![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/fbm.jpg)
+![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/billow.jpg)
 
 ## Cube Example
 Simple variation on the Texture example to spawn cube gameobjects in the scene.
 
-![image](https://raw.github.com/miketucker/accidentalNoiseUnity/master/Documents/cubes.jpg)
+![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/cubes.jpg)
 
 ---
 
