@@ -3,16 +3,16 @@ Accidental Noise Library for C# & Unity
 
 Based on the original [Accidental Noise Library](http://accidentalnoise.sourceforge.net/) by [Joshua Tippetts](http://tippettsj.users.sourceforge.net/)
 
-C# port written by [James of Discord Games](http://discordgames.com/?p=1954) also at 
+C# port written by [James Petruzzi](https://twitter.com/DiscordGames) of [Discord Games](http://discordgames.com). See his original [blog post](http://discordgames.com/?p=1954).
 
-Packaged and examples scenes for [Unity](http://unity3d.com) by me.
+Packaged, tweaked, and examples scenes for [Unity](http://unity3d.com) by me.
 
 ##### Note: Unfinished Port
 
 Many of the various color functions are not yet ported. If you're familiar with the C++ version, I'm sure the Unity community would very much appreciate your contribution to finishing the work started by James.
 
 
-## Minecraft Worlds
+## Features
 Examples outlined in Joshua's [Minecraft Worlds](http://accidentalnoise.sourceforge.net/minecraftworlds.html) article for compositing various layers of noise together.
 
 ![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/mountainCaves.jpg)
