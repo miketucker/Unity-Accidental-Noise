@@ -12,31 +12,24 @@ Packaged and examples scenes for [Unity](http://unity3d.com) by me.
 Many of the various color functions are not yet ported. If you're familiar with the C++ version, I'm sure the Unity community would very much appreciate your contribution to finishing the work started by James.
 
 
-## Features ##
+## Minecraft Worlds
+Examples outlined in Joshua's [Minecraft Worlds](http://accidentalnoise.sourceforge.net/minecraftworlds.html) article for compositing various layers of noise together.
 
-#### Minecraft Worlds ####
+![image](https://raw.github.com/miketucker/accidentalNoiseUnity/master/Documents/mountainCaves.jpg)
 
-Examples outlined in Joshua's [Minecraft Worlds](http://accidentalnoise.sourceforge.net/minecraftworlds.html) article
+## Fractal Generator
+Easy to use Fractal Editor script for generating textures.
 
-![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/mountainCaves.jpg)
+![image](https://raw.github.com/miketucker/accidentalNoiseUnity/master/Documents/editor.jpg)
 
-#### Fractal Generator ####
+![image](https://raw.github.com/miketucker/accidentalNoiseUnity/master/Documents/ridgedMulti.jpg)
+![image](https://raw.github.com/miketucker/accidentalNoiseUnity/master/Documents/fbm.jpg)
+![image](https://raw.github.com/miketucker/accidentalNoiseUnity/master/Documents/billow.jpg)
 
-Easy to use Fractal Editor script
+## Cube Example
+Simple variation on the Texture example to spawn cube gameobjects in the scene.
 
-![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/ridgedMulti.jpg)
-
-![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/fbm.jpg)
-
-![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/billow.jpg)
-
-![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/editor.jpg)
-
-#### Cube Example ####
-
-Simple variation on the Texture example to spawn cube gameobjects in the scene
-
-![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/cubes.jpg)
+![image](https://raw.github.com/miketucker/accidentalNoiseUnity/master/Documents/cubes.jpg)
 
 ---
 
