@@ -1,11 +1,11 @@
 Accidental Noise Library for C# & Unity
 ========
 
-* Based on the original [Accidental Noise Library](http://accidentalnoise.sourceforge.net/) by [Joshua Tippetts](http://tippettsj.users.sourceforge.net/)
+Based on the original [Accidental Noise Library](http://accidentalnoise.sourceforge.net/) by [Joshua Tippetts](http://tippettsj.users.sourceforge.net/)
 
-* C# port written by [James of Discord Games](http://discordgames.com/?p=1954) also at 
+C# port written by [James of Discord Games](http://discordgames.com/?p=1954) also at 
 
-* Packaged and examples scenes for [Unity](http://unity3d.com) by me.
+Packaged and examples scenes for [Unity](http://unity3d.com) by me.
 
 ##### Note: Unfinished Port
 
@@ -18,25 +18,25 @@ Many of the various color functions are not yet ported. If you're familiar with 
 
 Examples outlined in Joshua's [Minecraft Worlds](http://accidentalnoise.sourceforge.net/minecraftworlds.html) article
 
-![image](https://raw.github.com/miketucker/accidentalNoiseUnity/master/Documents/mountainCaves.jpg)
+![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/mountainCaves.jpg)
 
 #### Fractal Generator ####
 
 Easy to use Fractal Editor script
 
-![image](https://raw.github.com/miketucker/accidentalNoiseUnity/master/Documents/ridgedMulti.jpg)
+![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/ridgedMulti.jpg)
 
-![image](https://raw.github.com/miketucker/accidentalNoiseUnity/master/Documents/fbm.jpg)
+![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/fbm.jpg)
 
-![image](https://raw.github.com/miketucker/accidentalNoiseUnity/master/Documents/billow.jpg)
+![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/billow.jpg)
 
-![image](https://raw.github.com/miketucker/accidentalNoiseUnity/master/Documents/editor.jpg)
+![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/editor.jpg)
 
 #### Cube Example ####
 
 Simple variation on the Texture example to spawn cube gameobjects in the scene
 
-![image](https://raw.github.com/miketucker/accidentalNoiseUnity/master/Documents/cubes.jpg)
+![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/cubes.jpg)
 
 ---
 
