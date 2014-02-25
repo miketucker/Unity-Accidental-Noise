@@ -25,6 +25,7 @@ Easy to use Fractal Editor script for generating textures.
 ![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/ridgedMulti.jpg)
 ![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/fbm.jpg)
 ![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/billow.jpg)
+![image](https://raw.githubusercontent.com/miketucker/Unity-Accidental-Noise/master/Documents/lacunarity.jpg)
 
 ## Cube Example
 Simple variation on the Texture example to spawn cube gameobjects in the scene.

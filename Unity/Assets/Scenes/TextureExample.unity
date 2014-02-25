@@ -159,7 +159,7 @@ MonoBehaviour:
   height: 256
   width: 256
   scale: 1
-  preset: 3
+  preset: 2
 --- !u!1 &1483037918
 GameObject:
   m_ObjectHideFlags: 0

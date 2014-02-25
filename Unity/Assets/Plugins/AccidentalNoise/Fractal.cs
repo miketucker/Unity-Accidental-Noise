@@ -39,13 +39,17 @@ namespace AccidentalNoise
             if (seed == null)
                 seed = 10000;
 
+            m_lacunarity = 2.0;
             SetOctaves((int)octaves);
             m_frequency = (double)frequency;
-            m_lacunarity = 2;
             SetType(type);
             SetAllSourceTypes(basisType, interpType);
 
             SetSeed((uint)seed);
+        }
+
+        public void SetLacunarity(double lacunarity){
+            m_lacunarity = lacunarity;
         }
 
         private void SetOctaves(int octaves)
