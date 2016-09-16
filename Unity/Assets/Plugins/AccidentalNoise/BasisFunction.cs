@@ -59,7 +59,7 @@ namespace AccidentalNoise
                 case BasisTypes.GRADIENT: return NoiseGen.gradient_noise2D(x, y, seed, Interp);
                 case BasisTypes.GRADVAL: return NoiseGen.gradval_noise2D(x, y, seed, Interp);
                 case BasisTypes.WHITE: return NoiseGen.white_noise2D(x, y, seed, Interp);
-                case BasisTypes.SIMPLEX: throw new NotImplementedException();
+                case BasisTypes.SIMPLEX: return NoiseGen.simplex_noise2D(x, y, seed, Interp);
                 default: return NoiseGen.gradient_noise2D(x, y, seed, Interp);
             }
         }
