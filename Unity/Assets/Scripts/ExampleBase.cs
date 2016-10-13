@@ -13,7 +13,7 @@ public class ExampleBase : MonoBehaviour {
 	protected void GenerateInOneFrame(ModuleBase moduleBase){
 
 		Texture2D texture = new Texture2D(width,height);
-		renderer.material.mainTexture = texture;
+		GetComponent<Renderer>().material.mainTexture = texture;
 		SMappingRanges ranges = new SMappingRanges();
 
 

@@ -19,7 +19,7 @@ public class TextureExample : ExampleBase {
 
 	IEnumerator GenerateStream(){
 		Texture2D texture = new Texture2D(width,height);
-		renderer.material.mainTexture = texture;
+		GetComponent<Renderer>().material.mainTexture = texture;
 
 		ModuleBase combinedTerrain = TerrainPresets.GetPreset(preset);
 		SMappingRanges ranges = new SMappingRanges();
